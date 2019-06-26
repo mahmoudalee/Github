@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Github</string>
+    <string name="search_by_name_in_github">Search by Name in Github</string>
+    <string name="enter_the_name">Enter the name ....</string>
+</resources>

@@ -21,6 +21,12 @@
         android:layout_margin="@dimen/margin_ET_Value"
         android:layout_gravity="center"
         android:hint="@string/enter_the_name"/>
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:text="Search"
+        android:onClick="search"/>
 
     <android.support.v7.widget.RecyclerView
         android:id="@+id/rv_users"
